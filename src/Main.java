@@ -14,9 +14,8 @@ public class Main {
         //EbobEkok ebobEkok = new EbobEkok(-20);
         //System.out.println(ebobEkok.findDivisons());
 
-        //System.out.println(Permutasyon.recursivePermutasyon(5));
-        //System.out.println(Permutasyon.loopPermutasyon(4));
-
+        //System.out.println(Faktoriyel.recursiveFaktoriyel(5));
+        //System.out.println(Faktoriyel.recursiveFaktoriyel(4));
 
     }
 }

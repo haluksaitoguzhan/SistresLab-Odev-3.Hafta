@@ -1,0 +1,28 @@
+Soru: Ogrenci Notlari
+
+Bir ogrenci not takip sistemi yazin. Her ogrencinin adini anahtar,
+notunu deger olarak iceren bir HashMap kullanarak,
+kullaniciya ogrenci eklemesini ve bir ogrencinin notunu sorgulamasini saglayan bir program yapin.
+
+-----------------------
+
+Soru: Cift Sayilari Filtreleme
+
+Bir ArrayList icinde rastgele sayilari saklayin. Cift sayilari bir HashSet icine ekleyip,
+tek sayilari bir ArrayList icine ekleyen bir program yazin.
+
+-----------------------
+
+Soru: Oyuncu Puanlari
+
+Bir oyuncu puan sistemini simule eden bir program yazin. Oyuncularin isimlerini anahtar,
+puanlarini deger olarak kullanarak bir HashMap icinde saklayin. Oyunculara puan eklemek ve
+puanlarini goruntulemek gibi islemleri gerceklestiren bir program yazin.
+
+-----------------------
+
+Soru: Satis Takibi
+
+Bir sirketin satislarini takip eden bir program yazin. Her musterinin adini anahtar,
+satis miktarini deger olarak iceren bir HashMap kullanin. Toplam satis miktarini hesaplayarak
+en cok satis yapan musteriyi bulan bir program yazin.
